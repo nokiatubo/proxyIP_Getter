@@ -11,7 +11,7 @@ web服务器在unix/linux下可以用`https://github.com/teddysun/lamp`进行快
 
 2、在mysql中新建数据库proxy，将proxy.sql文件导入，在include/config.inc.php中修改数据库密码。
 
-3、此时本机访问http://ip:port，可以看到代理web展示界面
+3、此时本机访问http://ip:port ，可以看到代理web展示界面
 
 4、安装 python 2 依赖库
 ```
